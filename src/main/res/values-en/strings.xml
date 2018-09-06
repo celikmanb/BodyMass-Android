@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BodyMass</string>
+    <string name="bay">Man</string>
+    <string name="bayan">Woman</string>
+    <string name="boy_tv">Height</string>
+    <string name="kilo_tv">Weight</string>
+    <string name="cinsiyet">Gender</string>
+    <string name="ideal_kilo_tv">Ideal Weight</string>
+    <string name="durum">Status</string>
+    <string name="weak">You\'re Weak.</string>
+    <string name="ideal">You\'re Ideal Weight.</string>
+    <string name="more_ideal">You\'re More Than Ideal Weight.</string>
+    <string name="much">Too much</string>
+    <string name="too_much">Obese</string>
+    <string name="doctor">You\'ll Go To Doctor.</string>
+</resources>

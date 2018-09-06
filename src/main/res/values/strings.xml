@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">İdeal Kilo</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="boy_tv">Boy</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo_tv">Ideal Kilo</string>
+    <string name="durum">Durum</string>
+    <string name="weak">Zayıf Durumdasınız.</string>
+    <string name="ideal">İdeal Kilodasınız.</string>
+    <string name="more_ideal">İdeal kilodan fazlasınız.</string>
+    <string name="much">Fazla kilo.</string>
+    <string name="too_much">Obez</string>
+    <string name="doctor">Doktora gitmeniz gerekmekte.</string>
+</resources>
